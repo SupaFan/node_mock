@@ -1,8 +1,10 @@
 ## 守财鹿 express搭建的模拟数据
 
-* 本地nodejs启动
+* 本地nodejs server
 
 * 配置请求代理
+
+* 数据mock
 
 
   
